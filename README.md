@@ -1,4 +1,11 @@
-### welcome 🙌🏻
+<h2 align="center">
+welcome 🙌🏻
+</h2>
+
+
+<h6 align="center">
+🌱 저는 컴퓨터소프트웨어공학과 학생이고, 좋아하는 일을 잘하고싶어서 꾸준히 노력하고 있습니다. 🌱</h6>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -17,11 +24,13 @@
   <a href="https://www.instagram.com/oloqlon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/oloqlon/"/></a>&nbsp
   <a href="mailto:dapang14@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=dapang14@naver.com"/></a>
 </p>
-
 <h3 align="center">⚙️ system ⚙️</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> 
 </p>
 
-  
-![oloqlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewon-le&show_icons=true&theme=catppuccin_latte)
+<h3 align="center">📊 Github Stats 📊</h3>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=yewon-le&theme=catppuccin_latte=true"/></a>
+</p>
+

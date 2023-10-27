@@ -29,8 +29,10 @@ welcome 🙌🏻
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> 
 </p>
 
-<h3 align="center">📊 Github Stats 📊</h3>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=yewon-le&theme=tokyonight"/></a>
+<h3 align="center">📊 Github Statistics 📊</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yewon-le&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewon-le&layout=compact&theme=tokyonight" />
 </p>
+
 

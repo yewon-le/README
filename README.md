@@ -24,7 +24,7 @@ welcome 🙌🏻
   <a href="https://www.instagram.com/oloqlon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/oloqlon/"/></a>&nbsp
   <a href="mailto:dapang14@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=dapang14@naver.com"/></a>
 </p>
-<h3 align="center">⚙️ system ⚙️</h3>
+<h3 align="center">⚙️ System ⚙️</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> 
 </p>

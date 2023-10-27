@@ -31,6 +31,6 @@ welcome 🙌🏻
 
 <h3 align="center">📊 Github Stats 📊</h3>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=yewon-le&theme=catppuccin_latte=true"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yewon-le&theme=tokyonight"/></a>
 </p>
 

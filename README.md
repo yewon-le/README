@@ -2,9 +2,9 @@
 welcome 🙌🏻
 </h2>
 
-
-<h6 align="center">
+<h6 align="center" style="color: white;">
 🌱 저는 컴퓨터소프트웨어공학과 학생이고, 좋아하는 일을 잘하고싶어서 꾸준히 노력하고 있습니다. 🌱</h6>
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
